@@ -1,4 +1,4 @@
-# SailFish
+# SailFish-LİTE
  **Don't you worry, it's gonna be like I'm not even here**
 
 -Lalo Salamanca
@@ -15,11 +15,7 @@ A keylogger C2 (Command & Control) tool developed for red team operations and ed
 
   <img src="Logo.png" alt="sail fish logo" width="360">
 
-## Features
-* **Telegram C2 Integration:** Communication over Telegram Bot API.
-* **Layered Encryption:** Data obfuscation via Base64 + XOR encryption.
-* **Low Footprint:** Written in C with minimal external dependencies for performance.
-* **Red Team Focused:** Designed for educational research and OffSec training.
+
 
 
 Installation
